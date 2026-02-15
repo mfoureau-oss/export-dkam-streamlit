@@ -1,0 +1,83 @@
+2026-02-15 17:29:05,369 [INFO] Application Streamlit démarrée
+2026-02-15 17:31:35,270 [INFO] Application Streamlit démarrée
+2026-02-15 17:33:29,999 [INFO] Application Streamlit démarrée
+2026-02-15 17:33:30,064 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=token
+2026-02-15 17:33:30,171 [ERROR] Authentification Tableau refusée (status=401)
+2026-02-15 17:33:30,172 [ERROR] Erreur récupération workbooks Tableau : Authentification refusée (401/403).
+2026-02-15 17:37:40,012 [INFO] Application Streamlit démarrée
+2026-02-15 17:37:40,084 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 17:37:40,277 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 17:37:42,024 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 17:37:42,190 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 17:48:51,365 [INFO] Application Streamlit démarrée
+2026-02-15 17:48:51,463 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 17:48:51,675 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 17:48:52,524 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 17:48:52,743 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 17:48:59,991 [INFO] Application Streamlit démarrée
+2026-02-15 17:49:04,113 [INFO] Application Streamlit démarrée
+2026-02-15 17:49:10,706 [INFO] Application Streamlit démarrée
+2026-02-15 17:49:10,728 [INFO] Début génération PPT : wb=PRD Table Master Tableau GCP - Light (monthly), view=MONTHLY REPORTING, template=Quaterly_review_template_FR.pptx (templates/Quaterly_review_template_FR.pptx)
+2026-02-15 17:49:10,729 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 17:49:10,894 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 17:50:05,206 [INFO] Export PPT workbook Tableau OK (id=e2c6da30-ea0c-4fe1-85e6-4c63613af0b2)
+2026-02-15 17:50:06,047 [INFO] PPT final généré avec succès : PRDTableMasterTableauGCP-LightmonthlysheetsMONTHLYREPORTING
+2026-02-15 17:50:18,335 [INFO] Application Streamlit démarrée
+2026-02-15 17:50:56,788 [INFO] Application Streamlit démarrée
+2026-02-15 17:51:01,762 [INFO] Application Streamlit démarrée
+2026-02-15 17:51:01,793 [INFO] Début génération PPT : wb=PRD Table Master Tableau GCP - Light (monthly), view=MONTHLY REPORTING, template=Quaterly_review_template_FR.pptx (templates/Quaterly_review_template_FR.pptx)
+2026-02-15 17:51:01,793 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 17:51:01,967 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 17:51:02,356 [INFO] Export PPT workbook Tableau OK (id=e2c6da30-ea0c-4fe1-85e6-4c63613af0b2)
+2026-02-15 17:51:02,941 [INFO] PPT final généré avec succès : PRDTableMasterTableauGCP-LightmonthlysheetsMONTHLYREPORTING
+2026-02-15 17:51:15,556 [INFO] Application Streamlit démarrée
+2026-02-15 17:51:34,554 [INFO] Application Streamlit démarrée
+2026-02-15 17:51:34,615 [INFO] Application Streamlit démarrée
+2026-02-15 17:51:37,854 [INFO] Application Streamlit démarrée
+2026-02-15 17:51:37,924 [INFO] Début génération PPT : wb=PRD Table Master Tableau GCP - Light (monthly), view=MONTHLY REPORTING, template=Quaterly_review_template_FR.pptx (templates/Quaterly_review_template_FR.pptx)
+2026-02-15 17:51:37,925 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 17:51:38,085 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 17:51:38,604 [INFO] Export PPT workbook Tableau OK (id=e2c6da30-ea0c-4fe1-85e6-4c63613af0b2)
+2026-02-15 17:51:39,169 [INFO] PPT final généré avec succès : PRDTableMasterTableauGCP-LightmonthlysheetsMONTHLYREPORTING
+2026-02-15 18:02:19,560 [INFO] Application Streamlit démarrée
+2026-02-15 18:02:19,560 [INFO] Application Streamlit démarrée
+2026-02-15 18:04:26,283 [INFO] Application Streamlit démarrée
+2026-02-15 18:04:30,779 [INFO] Application Streamlit démarrée
+2026-02-15 18:04:35,511 [INFO] Application Streamlit démarrée
+2026-02-15 18:04:35,523 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:04:35,735 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:04:36,560 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:04:36,751 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:04:43,802 [INFO] Application Streamlit démarrée
+2026-02-15 18:05:05,128 [INFO] Application Streamlit démarrée
+2026-02-15 18:05:05,140 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:05:05,319 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:05:08,748 [INFO] Application Streamlit démarrée
+2026-02-15 18:05:08,772 [INFO] Début génération PPT : wb=PRD Table Master Tableau GCP - Light (monthly), view=0. Evolution en % leads et sessions (2), template=Quaterly_review_template_FR.pptx (templates/Quaterly_review_template_FR.pptx)
+2026-02-15 18:05:08,773 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:05:08,936 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:05:09,324 [INFO] Export PPT workbook Tableau OK (id=e2c6da30-ea0c-4fe1-85e6-4c63613af0b2)
+2026-02-15 18:05:09,911 [INFO] PPT final généré avec succès : PRDTableMasterTableauGCP-Lightmonthlysheets0_Evolutionenleadsetsessions2
+2026-02-15 18:13:43,384 [INFO] Application Streamlit démarrée
+2026-02-15 18:13:46,460 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:05,849 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:05,863 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:14:06,048 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:14:06,983 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:14:07,152 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:14:10,999 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:11,013 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:14:11,203 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:14:21,598 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:30,220 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:30,234 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:14:30,424 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:14:33,724 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:38,813 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:42,635 [INFO] Application Streamlit démarrée
+2026-02-15 18:14:42,658 [INFO] Début génération PPT : wb=PRD Table Master Tableau GCP - Light (monthly), view=MONTHLY REPORTING, template=Quaterly_review_template_FR.pptx (templates/Quaterly_review_template_FR.pptx)
+2026-02-15 18:14:42,659 [INFO] Tentative de connexion Tableau : server=https://eu-west-1a.online.tableau.com, site=autobiz, pat_name=export_PPT
+2026-02-15 18:14:42,843 [INFO] Connexion Tableau OK : site_id=fdb53e55-95db-4af3-be9e-9387d2d15f27, user_id=8b26b161-420a-4cba-9de5-23803413afa9
+2026-02-15 18:14:43,245 [INFO] Export PPT workbook Tableau OK (id=e2c6da30-ea0c-4fe1-85e6-4c63613af0b2)
+2026-02-15 18:14:43,815 [WARNING] Encountered 403 Forbidden with reason "forbidden"
+2026-02-15 18:14:44,226 [INFO] PPT final généré avec succès : PRDTableMasterTableauGCP-LightmonthlysheetsMONTHLYREPORTING
